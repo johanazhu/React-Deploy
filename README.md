@@ -93,3 +93,11 @@ Multiple paths match, but destination "/home/johan/www/react-app" is not a direc
 文件路径不对
 
 再改
+
+Couldn't canonicalize: No such file or directory
+Unable to canonicalize path "/home/johan/www/react-app/static"
+
+![image-20210819104136501](https://i.loli.net/2021/08/19/Wsfq2tYQjLmSbgl.png)
+
+改个地址
+试试
