@@ -101,3 +101,7 @@ Unable to canonicalize path "/home/johan/www/react-app/static"
 
 改个地址
 试试
+
+`remote_path: '/'`
+
+破釜沉舟
