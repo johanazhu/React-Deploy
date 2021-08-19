@@ -80,3 +80,8 @@ TEST TEST TEST
 之前的私钥是 openssh，现在改成 rsa 模式的，试试
 
 TEST TEST TEST
+
+Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
+免登录问题
+
+把 公钥的写进 auth 中，再设置 /etc/ssh/sshd_config
