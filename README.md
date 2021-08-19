@@ -85,3 +85,11 @@ Permission denied (publickey,gssapi-keyex,gssapi-with-mic,password).
 免登录问题
 
 把 公钥的写进 auth 中，再设置 /etc/ssh/sshd_config
+
+Warning: Permanently added '_\*\*' (ECDSA) to the list of known hosts.
+sftp> put -r ./build/_ /home/johan/www/react-app
+Multiple paths match, but destination "/home/johan/www/react-app" is not a directory
+
+文件路径不对
+
+再改
