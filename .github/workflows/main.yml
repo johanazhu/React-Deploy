@@ -24,4 +24,3 @@ jobs:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }} #引用之前创建好的secret
           local_path: './build/*' # 对应我们项目build的文件夹路径
           remote_path: '/home/johan/www/react-app'
-          args: 'mkdir static/ && put -r static/'

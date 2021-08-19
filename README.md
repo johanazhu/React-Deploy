@@ -106,3 +106,5 @@ args: 'mkdir static/ && put -r static/'
 
 给它的参数加上新建一个 static 文件，并推进去
 [参考资料](https://blog.csdn.net/zjm750617105/article/details/78314832?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base)
+
+在服务器中新建 static
